@@ -1,0 +1,45 @@
+export const tableData = [
+    {
+        id:1,
+        new_customer:"mark",
+        status:"pending",
+        product:"visa",
+        payment:'complete'
+    },
+    {
+        id:2,
+        new_customer:"mark",
+        status:"pending",
+        product:"visa",
+        payment:'complete'
+    },
+    {
+        id:3,
+        new_customer:"mark",
+        status:"pending",
+        product:"visa",
+        payment:'complete'
+    },
+    {
+        id:4,
+        new_customer:"mark",
+        status:"pending",
+        product:"visa",
+        payment:'complete'
+    },
+    {
+        id:5,
+        new_customer:"mark",
+        status:"pending",
+        product:"visa",
+        payment:'complete'
+    },
+    {
+        id:6,
+        new_customer:"mark",
+        status:"pending",
+        product:"visa",
+        payment:'complete'
+    }
+    
+]

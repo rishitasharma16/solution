@@ -1,0 +1,39 @@
+.cardInside{
+    padding:15px 25px;
+    background:#fff;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+
+.cardItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cardItem h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+.cardItem span{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 12px;
+    color: #525252;
+}
+
+.icons{
+    background:rgba(105, 185, 59, 0.171) ;
+    width: 55px;
+    height: 55px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 45px;
+}
+
+.arrowIcon svg{
+    color: red;
+    transform: rotate(30deg);
+}
+.arrowIcon{
+    margin: 10px 0 0;
+    color: rgb(124, 124, 124);
+}

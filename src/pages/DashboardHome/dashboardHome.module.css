@@ -1,0 +1,9 @@
+.main{
+    height: auto;
+    width: 100%;
+}
+
+.Pagetitle h1{
+    font-size:20px;
+    font-weight:400;
+}
